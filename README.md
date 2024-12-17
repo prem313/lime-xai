@@ -49,9 +49,9 @@ To enhance model interpretability, **LIME (Local Interpretable Model-Agnostic Ex
 
 ## Setup Instructions
 
-1. Install all necessary libraries using the requirements.txt file:
+1. Install all necessary libraries using the requirements.txt file
 pip install -r requirements.txt
-2. Use the dataset provided or the dataset can be downloaded froom kaggle using
+3. Use the dataset provided or the dataset can be downloaded froom kaggle using
    
 ### Download the Dataset:
 To download the dataset programmatically:
