@@ -1,4 +1,4 @@
-# ECG Image Classification with CNN and LIME Explanations
+#   Explainable AI-Driven Approaches for Accurate and Transparent Heart Disease Diagnosis
 
 ## Project Overview
 
